@@ -2,12 +2,12 @@
 
 <p align="center"><img width="200" src="https://c.tenor.com/6XIRlHQ0OkAAAAAC/spiderman-dancing.gif"></p>
 
-<h2 align = "center"> Estudiante de Física en BUAP | Analista de datos | Dev.F Student </h2>
+<h2 align = "center"> Lic. en Física | Analista de datos | Dev.F Student </h2>
 
 
 ## **¡HOLA!** 👋
 
-Mi nombre es Aldo Galán Méndez y me encuentro en proceso de defensa de tesis en la licenciatura en Física en la Benemérita Universidad Autónoma de Puebla. 
+Mi nombre es Aldo Galán Méndez, soy egresado de la Licenciatura en Física de la BUAP en espera del título. 
 
 - Aquí puedes ver proyectos personales y escolares
 
